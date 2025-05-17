@@ -1,0 +1,10 @@
+﻿{
+  "name": "Syrup.Benchmarks",
+  "references": [
+    "UnityEditor.TestRunner",
+    "UnityEngine.TestRunner",
+    "Unity.PerformanceTesting.Editor",
+    "Unity.PerformanceTesting",
+    "com.cannone.usyrup"
+  ]
+}
